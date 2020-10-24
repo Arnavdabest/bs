@@ -1,0 +1,3 @@
+reduse size of starwars and dragon attack
+change the font size of the headings(star wars and dragon attack)
+give margins to the game images
